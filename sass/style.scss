@@ -4,7 +4,8 @@ main {
 	max-width: $content-width;
   margin: 0 auto;
 	color: $font-color;
+  display: flex;
 	h1 {
 		font-size: $header-size;
 	}
-} 
+}  

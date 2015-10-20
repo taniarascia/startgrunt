@@ -1,6 +1,9 @@
 main {
   max-width: 1200px;
   margin: 0 auto;
-  color: #343434; }
+  color: #343434;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
   main h1 {
     font-size: 2em; }
